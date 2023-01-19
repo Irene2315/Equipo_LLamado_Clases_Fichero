@@ -10,7 +10,7 @@ import clases.GestorEquipos;
 import clases.Jugador;
 
 /*
- * El método run cuando se ejecute siga el siguiente flujo:
+ * El método run cuando se ejecute siga el siguiente flujo: 
 1. Pedir los datos del equipo
 2. Pedir si se quiere introducir un jugador o archivar el equipo. (J o A)
 a. Si se elige introducir un nuevo jugador (J):
